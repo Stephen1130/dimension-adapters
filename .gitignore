@@ -1,5 +1,4 @@
 node_modules
-.vscode
 .DS_store
 .env
 .idea
@@ -8,3 +7,7 @@ test.py
 test.js
 
 cli/dimensionModules.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
